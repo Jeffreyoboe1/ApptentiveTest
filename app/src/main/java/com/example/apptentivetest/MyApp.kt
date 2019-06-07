@@ -4,7 +4,7 @@ import android.app.Application
 import com.apptentive.android.sdk.Apptentive
 import com.apptentive.android.sdk.ApptentiveConfiguration
 
-class MyApp: Application() {
+class MyApp : Application() {
 
     override fun onCreate() {
         super.onCreate()
